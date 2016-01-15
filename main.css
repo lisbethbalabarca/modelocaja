@@ -1,0 +1,31 @@
+div{
+	
+	
+	padding: 1px;
+	border: solid;
+	border-color: black;
+	border-width: 1px;
+
+}
+.padre{
+	background-color: #F5BCA9;
+	border-style: solid;
+	border-color: violet;
+	border-width: 10px 5px 10px 5px;
+	width: 500px;
+	height: 100px;
+	
+
+}
+.hijo{
+	background-color: white;
+	border-style: dashed;
+	margin: 35px 45px;
+	text-align: center;
+	vertical-align: middle;
+	width: 400px;
+	height: 20px;
+}
+
+
+
